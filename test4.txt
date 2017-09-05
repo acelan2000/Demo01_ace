@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 This is test4.
-=======
-This is test4.txt
->>>>>>> 973298767f12786789ad057512e1faa066a65b73
+
